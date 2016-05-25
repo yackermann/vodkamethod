@@ -1,7 +1,7 @@
 body {
     font-family: Times, serif;
     padding: 0 1.5em 3em 1.5em;
-    background-color: #f7f7f7;
+    background-color: #fff;
     color: #3d3c3b;
     font-size: 18px;
     text-align: justify;
@@ -28,7 +28,7 @@ h1 {
 
 h2 {
     font-size: 25px;
-    margin-top: 2em;
+    margin-top: 0.5em;
     border: 1px solid rgba(0,0,0,0.1);
     border-left: 0;
     border-right: 0;
@@ -60,17 +60,17 @@ main {
 
 .intro {
     text-align: center;
-    border: 1px solid rgba(0,0,0,0.1);
+    /*border: 1px solid rgba(0,0,0,0.1);*/
     border-left: 0;
     border-right: 0;
     padding: 1em 0;
-    margin-bottom: 2em;
+    /*margin-bottom: 2em;*/
     font-size: 1.35em;
 }
 
 .feature {
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 50%;
     margin-bottom: 1em;
     display: block;
 }
