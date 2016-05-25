@@ -1,6 +1,6 @@
-Tea Method
+Vodka Method
 =========
 
-Documenting how to make the perfect cup of tea. Inspired by Dan Benjamin's Bacon Method: http://baconmethod.com/
+Documenting how to drink vodka, the right way. Inspired, and is fork of Anna Debenham's *Tea Method* http://teamethod.co.uk, and Dan Benjamin's *Bacon Method*: http://baconmethod.com/
 
-View site at http://teamethod.co.uk
+View site at https://vodkamethod.com
